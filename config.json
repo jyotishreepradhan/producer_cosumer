@@ -1,0 +1,11 @@
+{
+    "shedulerTime":{
+        "dayWeek" :"*",
+        "month" :"*",
+        "dayMonth" :"*",
+        "hour":15,
+        "minute":57,
+        "second":0
+    },
+    "name":"achyut"
+}

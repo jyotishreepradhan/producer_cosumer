@@ -1,0 +1,51 @@
+[
+  {
+    "CookieType": "Chocolate Chip",
+    "UnitsSold": 338239.5,
+    "Revenue_Per_Cookie": 5,
+    "Cost_Per_Cookie": 2,
+    "NetRevenue": 3
+  },
+  {
+    "CookieType": "Fortune Cookie",
+    "UnitsSold": 154198,
+    "Revenue_Per_Cookie": 1,
+    "Cost_Per_Cookie": 0.5,
+    "NetRevenue": 0.5
+  },
+  {
+    "CookieType": "Oatmeal Raisin",
+    "UnitsSold": 155315,
+    "Revenue_Per_Cookie": 5,
+    "Cost_Per_Cookie": 8.2,
+    "NetRevenue": -3.1999999999999993
+  },
+  {
+    "CookieType": "Snickerdoodle",
+    "UnitsSold": 146846,
+    "Revenue_Per_Cookie": 4,
+    "Cost_Per_Cookie": 1.5,
+    "NetRevenue": 2.5
+  },
+  {
+    "CookieType": "Sugar",
+    "UnitsSold": 168783,
+    "Revenue_Per_Cookie": 3,
+    "Cost_Per_Cookie": 1.25,
+    "NetRevenue": 1.75
+  },
+  {
+    "CookieType": "White Chocolate Macadamia Nut",
+    "UnitsSold": 162424.5,
+    "Revenue_Per_Cookie": 5,
+    "Cost_Per_Cookie": 9.75,
+    "NetRevenue": -4.75
+  },
+  {
+    "CookieType": "Bournville",
+    "UnitsSold": 262424.5,
+    "Revenue_Per_Cookie": 10,
+    "Cost_Per_Cookie": 5.75,
+    "NetRevenue": 4.25
+  }
+]

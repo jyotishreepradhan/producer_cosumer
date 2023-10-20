@@ -1,0 +1,10 @@
+{
+    "host": "localhost",
+    "port": 9092,
+    "topic":"myTopic",
+    "RecievedMsgStoredFile":"RecievedMsgStoredFile.txt",
+    "clientId":"0",
+    "mongoCollection":"collectionOne",
+    "mongoId":"test_db",
+    "producerSpeed":"1000"
+}
